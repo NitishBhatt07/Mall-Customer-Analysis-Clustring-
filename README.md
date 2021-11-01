@@ -8,7 +8,6 @@ Where we are trying to cluster them with there Annual income and Spending score 
 
 ## Dataset
 - [kaggle Dataset](https://www.kaggle.com/roshansharma/mall-customers-clustering-analysis)
-- [Docker](https://www.docker.com/)
 
 ## Screenshots
 ### Elbow Graph to Predict the Right K Value
