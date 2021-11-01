@@ -1,6 +1,6 @@
 # Mall Customer Analysis Clustring
 This is Clustring Project based on Mall customer data. 
-Where we are trying to cluster them with there Annual Sallary and Spenf=ding score in a Mall.
+Where we are trying to cluster them with there Annual income and Spending score in a Mall.
 
 ## Requirements
 - Python3 / Anaconda3
